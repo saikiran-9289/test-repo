@@ -5,7 +5,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'signup.dart';
 
 class Login extends StatefulWidget {
-  const Login({Key? key}) : super(key: key);
+  const Login({Key? key}) : super(key: key); //not an important project
 
   @override
   _LoginState createState() => _LoginState();
